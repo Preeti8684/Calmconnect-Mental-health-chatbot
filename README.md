@@ -1,4 +1,4 @@
-# calmconnect
+
 # 🌿 CalmConnect – AI Powered Mental Health Support System
 
 CalmConnect is a web-based mental health support chatbot developed using **Python, Streamlit, MongoDB, and AI (Ollama LLaMA3)**.  
@@ -32,10 +32,7 @@ To help users:
 
 ### 🧘 chat 
 ![Chat](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat1.png)
-<p align="center">
-<img src="https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat2.png)" width="350"/>
-<img src="https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat3.png" width="350"/>
->
+
 ### ⚙️ Settings Page
 ![Settings](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Setting.png)
 
