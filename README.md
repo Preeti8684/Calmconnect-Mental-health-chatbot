@@ -35,7 +35,7 @@ To help users:
 <p align="center">
 <img src="https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat2.png)" width="350"/>
 <img src="https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat3.png" width="350"/>
-
+>
 ### ⚙️ Settings Page
 ![Settings](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Setting.png)
 
