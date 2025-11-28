@@ -22,19 +22,21 @@ To help users:
 ![Home](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Welcome%20Page.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Login.png)
 
 ### 📝 Signup Page
-![Signup](screenshots/signup.png)
+![Signup](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Signup.png)
 
-### 💬 AI Chat Page
-![Chat](screenshots/chat.png)
+### 💬 home Page
+![Chat](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Start%20page.png)
 
-### 🧘 Meditation Page
-![Meditation](screenshots/meditation.png)
+### 🧘 chat 
+![Chat](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat1.png)
+![Chat](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat2.png)
+![Chat](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Chat3.png)
 
 ### ⚙️ Settings Page
-![Settings](screenshots/settings.png)
+![Settings](https://github.com/Preeti8684/Calmconnect-Mental-health-chatbot/blob/main/screenshots%20for%20readmefile/Setting.png)
 
 ---
 
