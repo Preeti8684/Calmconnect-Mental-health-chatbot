@@ -1,0 +1,147 @@
+/* 🌿 General Page Styling */
+body, [class*="block-container"] {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    font-family: "Poppins", sans-serif;
+}
+
+/* 🌸 Sidebar Styling */
+section[data-testid="stSidebar"] {
+    background-color: #c9a8ff !important;
+    width: 260px !important;
+    color: #000 !important;
+    font-size: 18px !important;
+    transition: all 0.4s ease;
+    box-shadow: 4px 0 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar when closed */
+.sidebar-closed section[data-testid="stSidebar"] {
+    transform: translateX(-100%);
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* Sidebar content */
+section[data-testid="stSidebar"] * {
+    color: #000 !important;
+    font-weight: 500;
+}
+
+/* Sidebar title */
+section[data-testid="stSidebar"] h1, section[data-testid="stSidebar"] h2 {
+    color: #3e006f !important;
+}
+
+/* 🌼 Chat Section */
+.chat-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #4a148c;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+/* 🌿 Chat container */
+div[data-testid="stVerticalBlock"] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* 💬 Chat Bubbles */
+.user-msg, .bot-msg {
+    max-width: 80%;
+    padding: 14px 18px;
+    border-radius: 20px;
+    margin: 10px 0;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+/* 🌸 User bubble */
+.user-msg {
+    background-color: #e6d6ff;
+    color: #000;
+    margin-left: auto;
+    text-align: right;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0 2px 6px rgba(150, 70, 255, 0.3);
+}
+
+/* 💜 Bot bubble */
+.bot-msg {
+    background-color: #f3e8ff;
+    color: #000;
+    margin-right: auto;
+    border-bottom-left-radius: 5px;
+    box-shadow: 0 2px 6px rgba(150, 70, 255, 0.2);
+}
+
+/* ✨ Buttons */
+button[kind="secondary"] {
+    background-color: #7b1fa2 !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 12px !important;
+    font-size: 16px !important;
+    padding: 10px 18px !important;
+    transition: 0.3s;
+}
+
+button[kind="secondary"]:hover {
+    background-color: #9c27b0 !important;
+    transform: scale(1.03);
+}
+
+/* 🌈 Toggle Button */
+.toggle-btn {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    background-color: #7b1fa2;
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    z-index: 100;
+    transition: 0.3s;
+}
+.toggle-btn:hover {
+    background-color: #9c27b0;
+}
+
+/* 🌈 Footer */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    color: #000;
+    background-color: #f5e9ff;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(160, 60, 255, 0.15);
+}
+
+.footer h4 {
+    color: #4a148c;
+    font-weight: 600;
+}
+
+/* 📱 Responsiveness */
+@media (max-width: 768px) {
+    .user-msg, .bot-msg {
+        font-size: 15px;
+        padding: 10px 14px;
+    }
+
+    section[data-testid="stSidebar"] {
+        width: 220px !important;
+    }
+
+    .toggle-btn {
+        top: 10px;
+        left: 10px;
+        font-size: 18px;
+    }
+}
